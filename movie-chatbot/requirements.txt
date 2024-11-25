@@ -1,0 +1,14 @@
+uvicorn
+fastapi
+langchain
+langchain-google-genai
+langchain-chroma
+# pandas
+# langchain-openai
+# langchain-qdrant
+# langchain-cohere
+# cohere
+# streamlit
+# requests
+# langchain-community
+# langchain-experimental
